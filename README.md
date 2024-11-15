@@ -41,9 +41,10 @@ Este proyecto tiene como objetivo analizar y predecir la probabilidad de abandon
 Incluye una breve descripción de los resultados obtenidos, como:
 - **Mejor modelo**: Ensemble (LogReg + RandomForest).
 - **Métricas clave**:
-  - Accuracy: `XX%`
-  - F1-Score: `XX%`
-  - AUC-ROC: `XX%`
+  - Accuracy: `74.77%`
+  - F1-Score: `64.35%`
+  - Recall: `83.79%`
+  - AUC-ROC: `86%`
 
 ## Cómo usar este proyecto
 
