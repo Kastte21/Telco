@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo analizar y predecir la probabilidad de abandon
 
 - **`data/`**: Contiene los archivos de datos utilizados para el análisis.
 - **`reports/`**: Resultados.
-- **`README.md`**: Este archivo, con la descripción del proyecto.
+- **`README.md`**.
 
 ## Tecnologías utilizadas
 
@@ -38,8 +38,7 @@ Este proyecto tiene como objetivo analizar y predecir la probabilidad de abandon
 
 ## Resultados
 
-Incluye una breve descripción de los resultados obtenidos, como:
-- **Mejor modelo**: Ensemble (LogReg + RandomForest).
+- **Mejor modelo**: Ensemble Undersampling (LogReg + RandomForest).
 - **Métricas clave**:
   - Accuracy: `74.77%`
   - F1-Score: `64.35%`
